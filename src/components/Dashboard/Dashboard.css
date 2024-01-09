@@ -1,6 +1,6 @@
 .dashboard{
     flex:0.8432;
-    height: 220vh;
+    height: fit-content;
     background-color: #f5f5f5;
 }
 
