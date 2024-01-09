@@ -48,6 +48,7 @@
     font-size: 16px;
     border-radius: 4px;
     cursor: pointer;
+    background-color: #f5f5f5;
 }
 
 .select-container .select-icon{
